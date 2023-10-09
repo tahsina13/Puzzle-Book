@@ -3,4 +3,4 @@ This repo hosts Python implementations of algorithms to accompany the [Puzzle Bo
 
 | Puzzle | Status |
 | ------ | ------ |
-| [Prince Princess](https://github.com/tahsina13/Puzzle-Book/tree/main/PrincePrincess) | :heavy_check_mark: |
+| [Prince and Princess](https://github.com/tahsina13/Puzzle-Book/tree/main/PrincePrincess) | :heavy_check_mark: |
